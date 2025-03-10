@@ -76,7 +76,28 @@ if __name__ == '__main__':
 
 
 
-#Something isnt right with my withdrawal
+# Something isnt right with my withdrawal
 
-#What was wrong with my withdraw was that to my functions show_balance() line 1 i defined it without parameters but 
-#to main() line 40 and 57 i called it with balance as an argument.
+# What was wrong with my withdraw was that to my functions show_balance() line 1 i defined it without parameters but 
+# to main() line 40 and 57 i called it with balance as an argument.
+
+#    WHY (Docu)
+#  Function. Parameter and Argument.
+#  Functions a code that can be used over taking arg that are inputed by user then performing some computation
+# - Parameter  a variable we use to define function
+# - Arg a value that we push onto a functions as an input
+
+#  HOW
+# On how i can use this is by use of global ( thats if i want to keep function without parameters)
+# - But i must first ensure that balance is accessible in the global scopes(  where im calling the function)
+# - balance = 100  # Global variable
+
+#def show_balance():  # No parameters here
+#    print(balance)  # This will work because `balance` is global
+
+# Now call it without any argument
+#show_balance()  # This will work correctly
+
+#    WHAT
+# In this case balance is a global var that doesnt need to be paased as an arg to show_balance. it will be accessible withing the Function.
+
