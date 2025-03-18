@@ -33,3 +33,18 @@ for letter in cipher_text:
 
 print(f"encrypt message: {cipher_text}") 
 print(f"Original message: {plain_text}")       
+
+
+# WhY
+# Becuase it ensures security, privacy and intergrity of Data.
+
+# How
+# It is done by converting data into an unreadable format that can only be deciphered with a correct Key.
+# - It can be used to Prevent unauthorised access to sensitive data like Passwords, credit card details or personal.
+# - it ensures confidentiality when sending data over the internet.
+# - To ensure data intergrity by making it difficult for attackers to modify
+# And some encryption methods help verify authenticity.
+# You can utelize these libraries : Cryptography, pycryptodome and hashlib
+
+# WHAT
+#  It protects Data.
