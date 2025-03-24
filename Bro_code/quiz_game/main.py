@@ -49,3 +49,30 @@ print()
 
 score = int(score / len(questions) * 100)
 print(f"Your Test score is: {score}%")
+
+# WHY
+# It is useful for learning, skill dev and even practical applications 
+# It reinforces knowledge in varioous subjects, engaging way to learn and memorize facts, and also it is made useful for teaching aid making mor e interactive.
+# Can be a great way to practise fundamentals variable,conditionals, loops and functions
+# Great way to also practise data structures lists dict or databases to store questions and answers
+# It can also be used in real world applications - elearning platforms, gamification and entertainment : Trivia games
+# Lastly  its knowledge can be expanded in web dev to build web-based versions of it using django and deploy online.
+# Data base intergration to store questions ans answers and APIs to amke its data accessible via rest api
+
+# HOW 
+# Can used as a learning and self assessment to test your knowledge, skill dev and exam preparance
+# can be used for reasearch and surveys to collect data and analytics
+# Can use it to expand it to mobile app suing framework like React native or flutter.
+#  Can be used as a technical interview preparations with coding questions
+
+
+# WHAT
+# Its an interactives program where a users answers questions to test their knowledge on a specific topic.
+# It asks questions, collects the answers and provide feedback based ont he users response 
+# It displays the question to the player
+# Asks the user to input answer(input)
+# It compares the players answer to the correct answer.
+# Trackes the players score based on the correct or wrong answers
+# Responds to the player if right or wrong 
+# And it then displas the final score
+
