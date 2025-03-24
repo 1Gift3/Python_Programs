@@ -32,7 +32,7 @@ print(f"Total is: R{total:.2f}")
 # Seems like popcorn doesnt print out 
 
 # Somehow the next day it works.
-#   WHAT
+#   WHY
 # Question is Why would it be useful to assist with Small tasks to Small - vendors,small businesses, entreprenuers.
 # It simplifies operations, boosts fundraising efforts, and provides valuable data that can inform better decisions.
 #  How
