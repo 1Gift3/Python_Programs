@@ -32,3 +32,18 @@ while is_running :
     else:
         print("Invalid guess")
         print(f"Please select number between {lowest_num} - {highest_num}")
+
+        # WHY 
+        # It can be useful to begin Practice in Programming as its a beginner friendly exercise.
+        # But of course it also helps me to use pythons random module to generate numbers, encourrages logical thinking BUT most of all 
+        #  it build a base for ai powered guessing games, probability analysis or more advanced applications.
+
+        # How
+        # I can use it for Learning, game dev and teaching probability
+        # - It can be used to help practice loops,conditionals and users input.
+        # - Can be expanded into advancegames with ai or UI.
+        
+        # WHAT 
+        # It generates random number, asks a player to guess, provides hints (high or low) and ends when the correct number is guessed.
+
+        
