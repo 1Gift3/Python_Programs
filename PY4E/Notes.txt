@@ -1,0 +1,18 @@
+Multi way decisions ( ELIF)
+- says if the conditions werent true,, then try this
+
+Def Function like an if,for and while state end with a colon :
+and Two statements make up this function.
+
+We define it once and can use it twice,
+
+The end of an Invocation is a return value ( Function)
+
+Loops refers to a language constructs that are used to repeatedly execute - while Iteration is the process of doing something repeatedly.( meaning how many times the loop ran over and over)
+
+Breaking out of a loop end the current loop but then jumps to the next statement following the loop.
+
+We have three types
+- None type which has one value in it a special marker (none constant) having one value
+- Boolean has True/False 
+- Floating point has an infinite no- of values along with intergers.
