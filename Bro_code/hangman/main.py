@@ -88,6 +88,8 @@ if __name__ == '__main__':
 # Learned
 # Line 79 is a python construct used to control execution of a script - in
 # simpler terms main will only run when script is executed directly and not run when its imported as a module.
+# Its a boilerplate code that protects users from accidentally invoking the script when they ddnt intent to.
+# HOW it WORKS - check code sample
 
 
 # Seems like the problem was on main function line 38 on the hint as i before "Underscore" __ doubled that not single
