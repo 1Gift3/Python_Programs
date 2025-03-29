@@ -20,22 +20,29 @@ print("Thanks for chatting with me! Have a great one! 🚀")
 
 
 # Line Two uses an f-string which is a formatted string in python
+# WHAT
 # What it does is that it allow me to format selected parts of a string
-# And to specify a string as an f-string you simply put an f in front of the string
-# Wanting control over formatting of your out put rhan simply printing space separed value to format out put we begin a string with f or F before openning qoutation mark or triple qoutation.
+# WHY
+# when you - Want control over formatting of out-put than simply printing space separated value.  
+# HOW
+# To format out-put, by begining a string with f or F before opening qoutation mark or triple qoutation.
 
 # Placeholders and modifiers
-# Now to format values in a n f-string -y youd need  placeholders {}
-# Which {name} is a container but also can contain operations,functions and modifiers to format the value.
+# WHY
+# To format values in an f-string -y you'd need  placeholders {}
+# WHAT
+# It enable {name} as a container (ie - but also can contain operations,functions and modifiers) to format the value.
+# HOW
 # WHen i remove fstring the it prints the statement as it is "Hello, {name}!..." without input or formating the input string.
 
+# Alternative way!
+# Since its cleaner and more readerble, if you want not that you cpuld use "+" for string concactenation
+
+# .Lower()
 # WHY
-# Reason why we use it is cause its cleaner and more readerble than using "+" for string concactenation
-
-# #.Lower()
-# is a string method that converts all characters in astring to lowercase.
-
-# WHy
+# is a string method that converts all characters in a string to lowercase.
+# WHAT
 # It ensure a consistent input handling takes place
 
+# Learned
 # Got reminded on how to use emojis again Windows, + and period .
