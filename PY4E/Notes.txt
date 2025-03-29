@@ -1,3 +1,30 @@
+Variable - is a data storer tjat is given a name by you the programmer , that when time gos you will call the data that that is stored with that name
+ Now programmers use a name that most best describes what they intend to store in it.
+
+ Assignment Stste - we assign a value to a variable using assign statement (=)
+
+
+TYpe conversions
+In an expression statement when you put an integer awith a floating point - the int is converted to a float.
+
+We use built-in function int() and float()
+
+Integer division produces a floating point result
+
+String conversionsWe can use int() and float() to convert betweenstrings and int'says
+
+User input 
+We user input() function, to pause and read data of the user onto python.
+n.b input() function will alwasy bring a string (always)
+
+Converting user input
+When we want to read a no that the user has typed, we must first convert it from a string to a no using type conversion function.
+
+
+
+
+
+
 Multi way decisions ( ELIF)
 - says if the conditions werent true,, then try this
 
