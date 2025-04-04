@@ -12,7 +12,7 @@ def track_part_time_hours():
     # Asking how many days you worked 
     days_worked = int(input("Enter the number of days you worked: "))
 
-    # Looping through each day to eanter hours worked
+    # Looping through each day to enter hours worked
     for day in range (1, days_worked + 1):
         hours = float(input(f"Enter hours worked on the day {day}: "))
         total_hours += hours # Adding hours worked to total
@@ -33,3 +33,10 @@ def track_part_time_hours():
 
 # Run the program
 track_part_time_hours()        
+
+# += - Adds a number to a Variable, changing the variable itself in the process ( Whereas + would not)
+# - e.g's
+# - -=, subtracts a value from variable, setting the variable to the result
+# - *=, multiplies the variable and a value, making the outcome the variable
+# - /=, divides the variable by the value, making the outcome the variable
+# - %=, performs modulus on the variable, with the variable then being set to the result of it
