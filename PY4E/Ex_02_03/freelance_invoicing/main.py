@@ -32,3 +32,16 @@ def generate_invoice():
 
 # Calling the function to generate the invoice
 generate_invoice()        
+
+# .strftime(format)
+# Returns a string representing the date, controlled by an explicit format string.
+# Formt codes referring to hours, minutes, or seconds will see 0 values.
+
+# ValueError exception 
+# Python valueErro is raised when a function receives an argument of the correct type but an inappropriate value
+# We can use try-except block to handle ValueError exception
+# It is alot raised in  mathematical operations.
+
+# ValueError inherits from exception, you can decide to trap either only ValueError or exception.
+# We generally use specific exceptions to trap only the ones that are likely to occur and leaves the rest untrapped.
+# A specific exception.
