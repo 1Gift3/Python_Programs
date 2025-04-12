@@ -10,7 +10,7 @@ Hourly Rate: $15.75/hour
 Gross Pay: 40 * 15.75 = $630.00
 
 # HOW
-This is the calculation the program already performs. However, for real-world payroll purposes, we often need to account for other factors, such as:
+For real-world payroll purposes, we often need to account for other factors, such as:
 
 Overtime Pay (if hours exceed 40 hours per week)
 
