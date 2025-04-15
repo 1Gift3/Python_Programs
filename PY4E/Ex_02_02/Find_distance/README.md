@@ -41,7 +41,7 @@
 
 #  Expanding it
 # API version
-# It can be made into a web service, so users can send city names through an http request and get distance back as json responses
+# It can be made into a web service, so users can send city names through an http request and get distance back as json responses * Minimal_api *
 
 # Adding more data
 # - Adding more features, like population data,weather, or tourist info when user enter a city, all based on the location
