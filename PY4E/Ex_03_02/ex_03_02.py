@@ -17,5 +17,3 @@ else:
     xp = fh * fr
 print ("Pay:", xp)
 
-
- 
