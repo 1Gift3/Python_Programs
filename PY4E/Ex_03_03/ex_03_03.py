@@ -39,5 +39,5 @@ else:
 # - Converting them into letter grades
 # - storing or displaying results on a dashboard
 # As an API grading as a service - where clients use it online to grade sending their scores and getting back a gradde.
-# For practice when creating terminal based apps or building small prjects with conditions and user input
+# For practice when creating terminal based apps or building small projects with conditions and user input
 
