@@ -29,7 +29,7 @@ else:
 # It then checks which range the score falls into and assigns a grade
 
 # WHY
-# It would be useful as it introduces condistional statements
+# It would be useful as it introduces conditional statements
 # Teaching range checking
 # Demostrating basic input validation
 # And great for turning into a function later.

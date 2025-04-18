@@ -1,22 +1,3 @@
-num = 0 
-tot = 0.0
-while True :
-    sval = input ('Enter a number: ') 
-    if sval == 'done' :
-        break
-    try:
-        fval = float(sval)
-    except:
-        print('Invalid input')
-        continue    
-    fval = float(sval)
-    print(fval)
-    num = num + 1
-    tot = tot + fval
-
-print('ALL DONE HERE')
-print (tot, num, tot/num)    
-
 # WHAT
 # This is apython pattern used to collect numbers from the user in a loop and then cal their total count and average.
 # We enter a while True loop which runs forever unless we break it manually
