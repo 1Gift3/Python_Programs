@@ -1,5 +1,6 @@
 num = 0 
 tot = 0.0
+
 while True :
     sval = input ('Enter a number: ') 
     if sval == 'done' :
@@ -18,7 +19,7 @@ print('ALL DONE HERE')
 print (tot, num, tot/num)    
 
 # WHAT
-# This is apython pattern used to collect numbers from the user in a loop and then cal their total count and average.
+# This is a python pattern used to collect numbers from the user in a loop and then cal their total count and average.
 # We enter a while True loop which runs forever unless we break it manually
 # he line asks the user to type a something (input)
 # Should you input done, we break the loop and stop asking for input
