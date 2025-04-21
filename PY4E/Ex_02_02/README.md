@@ -8,7 +8,7 @@
 # Can also store names and other inputs for further processing in databases or files
 # Lastly can be intergrated into a game where the players name is needed
 
-#WHAT
+# WHAT
 # This program uses input to prompt user for their name 
 # and then welcomes them
 # You will then input Sarah in the box.
