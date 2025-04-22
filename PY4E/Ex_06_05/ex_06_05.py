@@ -23,7 +23,7 @@ print(piece)
 
 # HOW
 # It comes in handy when parsing text data , like if im processing files (like logs,sensor readings or scraped web data)numbers are often mixed with labels or formatting - hence i need a way to pull the numba out
-# Data cleaning in  python, when data is messy or not in a clean spreadsheet, i would often have to use techniques like this to extract numbers from string
+# Data cleaning in python, when data is messy or not in a clean spreadsheet, i would often have to use techniques like this to extract numbers from string
 # Web scraping or email parsing.
 
 # WHY
