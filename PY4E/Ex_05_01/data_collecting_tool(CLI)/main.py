@@ -46,3 +46,6 @@ else:
 # - delivery distance tracker
 # - Lab/ experiment Data entry
 
+# Improvements 
+# Track maximum and minimum distances
+# Add unit hnadling in miles or km
