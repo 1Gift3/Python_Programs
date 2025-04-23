@@ -1,0 +1,10 @@
+# Save matching line to a list
+
+fh = open('mbox-short.txt')
+matched_lines = []
+for line in fh:
+    line = line.rstrip()
+    if 'FROM' in line.upper():
+        matched_lines.append(line.upper())
+
+print(matched_lines) 
