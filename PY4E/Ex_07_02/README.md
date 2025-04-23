@@ -11,25 +11,6 @@
 # calculates the average spam value
 # and prints out the result
 
-fname = input("Enter file name: ")
-fh = open(fname)
-count = 0
-total = 0
-
-for line in fh:
-
-    if not line.startswith("X-DSPAM-Confidence:"):
-        continue
-
-    t = line.find ("0")
-    number = float(line[t:])
-    count = count +1
-    total = total + number
-
-average = total/count
-
-print("Average spam confidence:", average)
-
 # HOW
 # its great to learn pythons string handling & file i/o
 # can be used to process email logs, web server logs, sensor data files and error logs
@@ -46,4 +27,3 @@ print("Average spam confidence:", average)
 # Automating repetitive tasks
 # Log file processing
 # And serves as a foundation for big projects - spam filtersm email processing and dashboard analytics tools
-
