@@ -42,4 +42,15 @@ print(f"Minimum is {lowest_no}")
 # it acts as a base for more advanced programs : calculators, analytics and data filtering
 # Also great intro to using none as a placeholder in logic
 
+# HOW
+# Grading system
+# can be used as a sales tracker for small business inputing daily sales figures
+# Expense or budget tracker
+# perfomance monitoring
+# and a data entry or logs to help analyze extremes without needing excel or fancy tools
+
+# Expands 
+# saving values to a file or database
+# working with decimanl nummbers float instead of int
+# Visualize with a graph (using matplotlib)
 
