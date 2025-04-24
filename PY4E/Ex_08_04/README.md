@@ -9,20 +9,6 @@
 # loops over each word in the file, if the words is not already in the list it adds it, and after adding a neew word it sorts the list
 # and prints out the sorted list of unique words
 
-
-#file =input("Enter file name:")
-nfile =open("romeo.txt").read()
-list_words = list() #empty list
-afile= nfile.split()
-
-
-for word in afile:
-    if word not in list_words:
-        list_words.append(word)
-        list_words.sort()
-
-print(list_words)        
-
 # WHY
 # Can be used for vocabulary analysis
 # removin duplicates from a file
