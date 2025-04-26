@@ -1,6 +1,11 @@
 # WHAT
 # Building an seo keyword frequency analyzer that normalizing words, removing stop words and counting word frequency
-
+# Importing reuired lib
+# - string : provides access to common string operations including punctuation char
+# - counter : works on a collection from pythons collections module helping count the frequency of items
+# - stopwords: provides us with a list of common words that are generally considered unnecessary for keywords analysis
+# - and nltk : is a powerful lib for text processing and natural language processing
+# 
 
 import string
 from collections import Counter 
