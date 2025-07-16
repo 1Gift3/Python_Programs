@@ -1,4 +1,4 @@
-# Predefines username and password
+# Predefined username and password
 stored_username = "admin"
 stored_password = "password1234"
 

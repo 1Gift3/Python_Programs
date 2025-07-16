@@ -3,7 +3,7 @@
 users_db = {
     "admin": "password1234",
     "user1": "mypassword1",
-    "user2": "mypassword2,"
+    "user2": "mypassword2",
 }
 
 # Asking the user for credentials

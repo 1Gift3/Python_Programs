@@ -1,9 +1,11 @@
 # WHAT
-# The dict users_db stores the usernames as keys and their corresponding passwords as values (Dictionary)
-# The code then checks if the entered username exists as a key in the dict (users_db)
-# - if the username is found, it then checks if the entered password matches the stored password for that username
-# Should both username and password match the stored values the user is logged in and a success message is displayed
-# - should the username or the password be incorrect an error message will be shown
+# To stored more than one name, you will have to use Dictionary - Data structure ( key value Pairs)
+# firstly you will have to predefine dict with stored usernames and passwords.
+# The program prompts you the user to enter your name and again prompt again but this time asking for your password.
+# The program will then check if what you the user has inputed  corresponds with deatils in the Dict (users_db) 
+# - Should the username be found, it will continue to check if you entered password matching the stored one.
+# Should both username and password match the stored values you the user will be logged in and a success message will be printed
+#  - should the username or the password be incorrect an error message will then be printed
 
 # WHY
 # It provides a way to authenticate users in a program (simple), its the foundational concept of building login systems

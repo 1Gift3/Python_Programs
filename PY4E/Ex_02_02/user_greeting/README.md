@@ -26,7 +26,7 @@
 
 # Part 6
 # Program then prompts you the user again for their Hobby
-# Sotre the input in Variable 'hobby' 
+# Storesthe input in Variable 'hobby' 
 # Then prints the message usings F-string formatting
 # - where {name} assumes theres a variable name already defined somewhere 
 # {hooby.capitalize()} capitalizes the first letter of the hobby for better formating.
