@@ -1,6 +1,15 @@
-Basic Payroll Calculation:
 # WHAT
-At its core, the simple payroll calculation is just multiplying the hours worked by the hourly wage. This method assumes that all the hours are paid at the regular rate.
+# At its core, this is a simple payroll calculation, calculating gross pay based on the number of hours worked and hourly pay rate.
+# Also taking overrtime into account
+# The program uses 40 hours as regular working hours
+# If the hours worked are 40 or less, gross pay is calculated by multiplying hours by the rate (ie - No overtime is paid in this case)
+# Should it  happen that you have worked more than 40 hours
+# - It first computes regular pay for 40 hours
+# - Secondly Calculates how many extra hours were worked
+# - Thirdly overrtime pay is calculated at 1.5 times the regular rate
+# - Then it adds boths regular pay and the overrtime to get the total gross pay
+# Then the program prints the total pay, formatted to 2 decimals.
+
 
 Example:
 Hours Worked: 40 hours

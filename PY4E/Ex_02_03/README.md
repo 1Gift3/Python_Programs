@@ -1,16 +1,15 @@
 # WHAT 
-# It is a program that prompts the user for hours and rate per hour using input
-# To compute gross pay
-# using input to read a string and float to convert the string to a number
+# This program calculates gross pay of youthe User.
+# The program prompts you the user for hours and rate per hour 
+# It then continues on to calculate the gross
+# - Now to compute the gross pay, it multiplies total hours worked and the rate.
+# The program uses input to read a string and float to convert the string to a number
 
 # WHY 
-# Can use it as a Simple payroll calculations, using payroll calculations for employees.
-# For budgeting and financial planning, which can be useful for people who are self employed or freelancers
-# Time tracking for part time jobs
-# Freelance invoicing
-# Overtime pay cal
+# Can use it as a Simple payroll calculations for employees.
+# Time tracking for part time jobs, Freelance invoicing.
 # Job offers and salary negotiations
-# But mostly its a good teaching basic programming - demostrating basic concepts user inpt, variable assignment and arithmetic operations.
+# A good teaching basic programming - demostrating basic concepts user input, variable assignment and arithmetic operations.
 
 # HOW
 # Run the program
