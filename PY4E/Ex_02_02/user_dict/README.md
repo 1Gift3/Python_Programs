@@ -1,5 +1,5 @@
 # WHAT
-# To stored more than one name, you will have to use Dictionary - Data structure ( key value Pairs)
+# To stored more than one name in a variable, you will have to use Dictionary - Data structure ( key value Pairs)
 # firstly you will have to predefine dict with stored usernames and passwords.
 # The program prompts you the user to enter your name and again prompt again but this time asking for your password.
 # The program will then check if what you the user has inputed  corresponds with deatils in the Dict (users_db) 
