@@ -45,18 +45,10 @@ def main():
 
     print(f"\nFinal salary offer: ${current_salary:,.2f}")
 
-if __name__ == "__main__":
-    main()
-# This ABOVE
+if __name__ == "__main__":   # This line checks if the script is being run directly
+    # If the script is being imported as a module, this block will not execute.
 #  __name__ is a special python variable that holds the name of the module currently being excecuted, except when the module is strted from the command line, in which it becomes __main__   
 # It helps control code executions in scripts.
-# WHAT
-# When you run a python script, the interpreter assigns the value __main__ to the __name__ variable
-# should python import the code as a module then it sets __name__ to the modules name instead.
-# By encapsulating code within if __name__ == __main__, you can ensure it only runs in the intendd context.
-
-# WHY
-# Its usefuk for adding script specific logic, such as user input or test cases, without affecting module imports
-
-# HOW
-# When you want to create an additional entry point for a script, so that the file is accessible as a stand alone script as well as an importable module ( You might want that when your script needs to collect user input)
+# is the entry point of the program
+    # This line ensures that the main function is called only when the script is run directly,
+    main()

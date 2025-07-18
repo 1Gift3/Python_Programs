@@ -18,12 +18,8 @@ Hourly Rate: $15.75/hour
 
 Gross Pay: 40 * 15.75 = $630.00
 
-# HOW
-For real-world payroll purposes, we often need to account for other factors, such as:
-
-Overtime Pay (if hours exceed 40 hours per week)
-
-Tax Deductions (if you're including tax withholdings)
-
-Bonuses or Deductions (like bonuses, health insurance, etc.)
+# WHY
+# For real-world payroll purposes, we often need to account for other factors, such as: Overtime Pay (if hours exceed 40 hours per week)
+# - Tax Deductions (if you're including tax with-holdings)
+# - Bonuses or Deductions (like bonuses, health insurance, etc.)
 
