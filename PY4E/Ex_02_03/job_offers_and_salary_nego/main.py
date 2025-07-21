@@ -15,7 +15,7 @@ def negotiate_salary(base_salary, expected_salary):
 
     print("\nSalary Negotiation Begins:")
     if expected_salary > base_salary:
-        print(f"Candidate is asking for ${expected_salary:,2.f} which is higher than the base salary.")
+        print(f"Candidate is asking for ${expected_salary:,.2f} which is higher than the base salary.")
 
         # Employer response
         counter_offer = base_salary + (expected_salary - base_salary) * 0.5 # Employer offers
