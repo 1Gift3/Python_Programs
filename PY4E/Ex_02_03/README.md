@@ -1,5 +1,5 @@
 # WHAT 
-# This program calculates gross pay of youthe User.
+# This program calculates gross pay for you git add .the User.
 # The program prompts you the user for hours and rate per hour 
 # It then continues on to calculate the gross
 # - Now to compute the gross pay, it multiplies total hours worked and the rate.
