@@ -3,7 +3,7 @@ def job_offer(base_salary, job_title):
     Simulates a job offer process, providing an offer to the candidate.
     """
 
-    print(f"Congradulations! Yove've received a job offer for the position of {job_title}.")
+    print(f"Congradulations! You've received a job offer for the position of {job_title}.")
     print(f"The base salary offered is: ${base_salary:,.2f}")
     return base_salary
 
