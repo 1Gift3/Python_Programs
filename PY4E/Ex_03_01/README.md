@@ -1,16 +1,17 @@
 # WHAT
 # A simple pay cal helping compute weekly earnings of an employee
-# Based on number of hours worked and houly rate
-# It takes the user input for hours and rate
-# Converts input into appropriate data types
-# Checks if hours exceeds 40 - which is the standard time for work week
-# if yes meaning overritme
+# Based on number hours worked and the houly rate
+
+# The program prompts you to input hours and rate
+# It then Converts your input(string) into appropriate data types - floating point
+# We then continue to Check if hours exceeds 40 - which is the standard time for work week
+# Should it be true means you have worked overritme
 # - It then cal's regular pay
-# - Calculates overrtime pay 
+# - Calculates overrtime pay, @ half the hourly rate 1.5 
 # - and adds both to get total pay
-# if not then it just adds regular pay
+# if not then it just calculates regular pay
 # - Multiplies hours by rate
-# LAstly it prints total pay
+# Then prints Normal pay
 
 # WHY
 # Can be used for a basic payroll cal
