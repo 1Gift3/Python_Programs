@@ -18,7 +18,7 @@
 # And great for turning into a function later.
 
 # HOW
-# Can be very useful for education platforms taking in stdents test scores
+# Can be very useful for education platforms taking in students test scores
 # - Converting them into letter grades
 # - storing or displaying results on a dashboard
 # As an API grading as a service - where clients use it online to grade sending their scores and getting back a gradde.
