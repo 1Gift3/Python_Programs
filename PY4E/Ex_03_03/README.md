@@ -12,8 +12,8 @@
 
 
 # WHY
-# It would be useful as it introduces conditional statements
-# Teaching range checking
+# It would be useful as it introduces you to conditional statements
+# Also teaching range checking 
 # Demostrating basic input validation
 # And great for turning into a function later.
 
