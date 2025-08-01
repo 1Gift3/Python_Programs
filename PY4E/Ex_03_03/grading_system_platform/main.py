@@ -31,16 +31,3 @@ else:
 
 
 score = float(input("Enter score (between 0.0 - 1.0): "))
-
-if 0.0 <= score <= 1.0:
-    if score >= 0.9:
-        grade = "A"
-    elif score >= 0.08:
-        grade = "B"
-    elif score >= 0.7:
-        grade = "C"
-    elif score >= 0.06:
-        grade =  "D"
-
-    else: grade "F"            
-
